@@ -13,6 +13,7 @@
 
 - Rust
 - TEE (SGX)
+- Architecture of data analytics platform (DWH, DataLake, ...)
 
 ### 📝 I regularly write articles on ...
 
@@ -21,8 +22,10 @@
 ### 💬 Ask me about ...
 
 - Rust
-- RDBMS development
+- RDBMS internal
 - High Performance Computing
+- Linux Kernel internal
+- CPU architecture (x86_64, RISC-V)
 
 ### 📄 Know about my experiences:
 
