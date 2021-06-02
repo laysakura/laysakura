@@ -7,7 +7,7 @@
 ### 🔭 I’m currently working on ...
 
 - [Actcast](https://actcast.io/) development to support new devices.
-- A RDBMS written in Rust, specialized to be used as backend DB of CMS for non-engineers.
+- [apllodb](https://github.com/apllodb/apllodb), a RDBMS written in Rust.
 
 ### 🌱 I’m currently learning ...
 
