@@ -14,6 +14,8 @@
 - Rust
 - TEE (SGX)
 - Architecture of data analytics platform (DWH, DataLake, ...)
+- Cryptography
+- Differential Privacy
 
 ### 📝 I regularly write articles on ...
 
