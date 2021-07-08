@@ -38,7 +38,6 @@
 
 - :email: lay.sakura@gmail.com
 - Twitter: [@laysakura](https://twitter.com/laysakura)
-- LinkedIn: [Sho Nakatani](https://www.linkedin.com/in/sho-nakatani-a880b891/)
 
 ### :chart_with_upwards_trend:  Stats:
 
