@@ -12,8 +12,9 @@
 ### 🌱 I’m currently learning ...
 
 - Rust
-- TEE (SGX)
 - Architecture of data analytics platform (DWH, DataLake, ...)
+- Intelligent Transport System, Connected cars
+- TEE (SGX)
 - Cryptography
 - Differential Privacy
 
