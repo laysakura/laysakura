@@ -6,7 +6,11 @@
 
 ### 🔭 I’m currently working on ...
 
-- [Actcast](https://actcast.io/) development to support new devices.
+- R&D on dataflow platform throught connected cars to data center / cloud at Toyota.
+  - Edge-side (car-side) sensor data filtering & compression
+  - NW protocol (L4~L7)
+  - DataLake architecture with streaming data processing
+  - MLOps
 - [apllodb](https://github.com/apllodb/apllodb), a RDBMS written in Rust.
 
 ### 🌱 I’m currently learning ...
