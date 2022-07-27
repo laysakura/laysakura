@@ -7,10 +7,9 @@
 ### 🔭 I’m currently working on ...
 
 - R&D on dataflow platform throught connected cars to data center / cloud at Toyota.
-  - Edge-side (car-side) sensor data filtering & compression
-  - NW protocol (L4~L7)
+  - Edge-device (in-vehicle) sensor data stream processing
   - DataLake architecture with streaming data processing
-  - MLOps
+- [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
 - [apllodb](https://github.com/apllodb/apllodb), a RDBMS written in Rust.
 
 ### 🌱 I’m currently learning ...
@@ -30,9 +29,11 @@
 
 - Rust
 - RDBMS internal
+- Stream processing
 - High Performance Computing
 - Linux Kernel internal
-- CPU architecture (x86_64, RISC-V)
+- CPU architecture (x86_64, RISC-V, NN accelarators)
+- AI accelerator
 
 ### 📄 Know about my experiences:
 
