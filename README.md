@@ -6,7 +6,7 @@
 
 ### 🔭 I’m currently working on ...
 
-- R&D on dataflow platform throught connected cars to data center / cloud at Toyota.
+- R&D on dataflow platform from connected vehicles to data center at Toyota.
   - Edge-device (in-vehicle) sensor data stream processing
   - DataLake architecture with streaming data processing
 - [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
