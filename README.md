@@ -15,11 +15,8 @@
 ### 🌱 I’m currently learning ...
 
 - Rust
-- Architecture of data analytics platform (DWH, DataLake, ...)
 - Intelligent Transport System, Connected cars
-- TEE (SGX)
-- Cryptography
-- Differential Privacy
+- Secure Computing (TEE, HE)
 
 ### 📝 I regularly write articles on ...
 
@@ -31,6 +28,7 @@
 - RDBMS internal
 - Stream processing
 - High Performance Computing
+- Data analytics platform architectures (DWH, DataLake, ...)
 - Linux Kernel internal
 - CPU architecture (x86_64, RISC-V, NN accelarators)
 - AI accelerator
