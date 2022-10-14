@@ -14,8 +14,7 @@
 
 ### 🌱 I’m currently learning ...
 
-- Rust
-- Intelligent Transport System, Connected cars
+- Intelligent Transport System, Connected Vehicles
 - Secure Computing (TEE, HE)
 
 ### 📝 I regularly write articles on ...
