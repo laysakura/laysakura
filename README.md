@@ -46,7 +46,7 @@
 
 ### :chart_with_upwards_trend:  Stats:
 
-![@laysakura's GitHub Stats card](https://github-readme-stats.vercel.app/api?username=laysakura&custom_title=@laysakura%27s+GitHub+Stats&show_icons=true&count_private=true&theme=dracula)
+![@laysakura's GitHub Stats card](https://github-readme-stats-sigma-five.vercel.app/api?username=laysakura&custom_title=@laysakura%27s+GitHub+Stats&show_icons=true&count_private=true&theme=dracula)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laysakura&theme=dracula" alt="laysakura" /></p>
