@@ -10,7 +10,7 @@
   - Edge-device (in-vehicle) sensor data stream processing
   - DataLake architecture with streaming data processing
 - [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
-- [Scalar DB](https://github.com/scalar-labs/scalardb/), a universal transaction manager enabling distributed transactions over multiple DB engines.
+- [ScalarDB](https://github.com/scalar-labs/scalardb/), a universal transaction manager enabling distributed transactions over multiple DB engines.
 - [apllodb](https://github.com/apllodb/apllodb), a RDBMS written in Rust.
 
 ### 🌱 I’m currently learning ...
