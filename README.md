@@ -8,6 +8,7 @@
 
 - R&D on dataflow platform from connected vehicles to data center at Toyota.
   - Edge-device (in-vehicle) sensor data stream processing
+  - Secure distributed stream processor using TEE
   - DataLake architecture with streaming data processing
 - [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
 - [ScalarDB](https://github.com/scalar-labs/scalardb/), a universal transaction manager enabling distributed transactions over multiple DB engines.
@@ -15,6 +16,9 @@
 
 ### 🌱 I’m currently learning ...
 
+- CTF
+  - [picoCTF account](https://play.picoctf.org/users/laysakura)
+  - [ksnctf](https://ksnctf.sweetduet.info/) account: `laysakura`
 - Intelligent Transport System, Connected Vehicles
 - Secure Computing (TEE, HE)
 - Hyperledger Fabric
@@ -42,7 +46,7 @@
 ### 📫 How to reach me:
 
 - :email: lay.sakura@gmail.com
-- Twitter: [@laysakura](https://twitter.com/laysakura)
+- X (Twitter): [@laysakura](https://twitter.com/laysakura)
 
 ### :chart_with_upwards_trend:  Stats:
 
