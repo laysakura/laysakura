@@ -17,8 +17,6 @@
 ### 🌱 I’m currently learning ...
 
 - CTF
-  - [picoCTF account](https://play.picoctf.org/users/laysakura)
-  - [ksnctf](https://ksnctf.sweetduet.info/) account: `laysakura`
 - Intelligent Transport System, Connected Vehicles
 - Secure Computing (TEE, HE)
 - Hyperledger Fabric
