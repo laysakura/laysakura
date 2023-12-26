@@ -6,20 +6,12 @@
 
 ### 🔭 I’m currently working on ...
 
-- R&D on dataflow platform from connected vehicles to data center at Toyota.
-  - Edge-device (in-vehicle) sensor data stream processing
+- R&D on softwares related to connected vehicles at Toyota.
+  - AI security
+  - Privacy tech
+  - [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
   - Secure distributed stream processor using TEE
   - DataLake architecture with streaming data processing
-- [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
-- [ScalarDB](https://github.com/scalar-labs/scalardb/), a universal transaction manager enabling distributed transactions over multiple DB engines.
-- [apllodb](https://github.com/apllodb/apllodb), a RDBMS written in Rust.
-
-### 🌱 I’m currently learning ...
-
-- CTF
-- Intelligent Transport System, Connected Vehicles
-- Secure Computing (TEE, HE)
-- Hyperledger Fabric
 
 ### 📝 I regularly write articles on ...
 
@@ -27,13 +19,11 @@
 
 ### 💬 Ask me about ...
 
+- Cyber security (especially AI security)
 - Rust
 - RDBMS internal
 - Stream processing
-- High Performance Computing
 - Data analytics platform architectures (DWH, DataLake, ...)
-- Linux Kernel internal
-- CPU architecture (x86_64, RISC-V, NN accelarators)
 - AI accelerator
 
 ### 📄 Know about my experiences:
