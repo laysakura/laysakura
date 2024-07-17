@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm @laysakura</h1>
 <h3 align="center">A low-level system developer / backend engineer in Tokyo.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laysakura&label=Profile%20views&color=0e75b6&style=flat-square" alt="laysakura" /></p>
-
-
 ### 🔭 I’m currently working on ...
 
 - R&D on softwares at Toyota.
