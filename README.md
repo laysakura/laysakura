@@ -8,7 +8,7 @@
 
 - R&D on softwares at Toyota.
   - Security & Privacy
-  - Auth
+  - Auth (DID & VC)
   - Data Platforms
 
 ### 📝 I regularly write articles on ...
