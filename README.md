@@ -6,25 +6,14 @@
 
 ### 🔭 I’m currently working on ...
 
-- R&D on softwares related to connected vehicles at Toyota.
-  - AI security
-  - Privacy tech
-  - [SpringQL](https://github.com/SpringQL/SpringQL), a stream processor for IoT devices and in-vehicle computers.
-  - Secure distributed stream processor using TEE
-  - DataLake architecture with streaming data processing
+- R&D on softwares at Toyota.
+  - Security & Privacy
+  - Auth
+  - Data Platforms
 
 ### 📝 I regularly write articles on ...
 
 - [俺とお前とlaysakura](https://laysakura.github.io/) (Blog in Japanese)
-
-### 💬 Ask me about ...
-
-- Cyber security (especially AI security)
-- Rust
-- RDBMS internal
-- Stream processing
-- Data analytics platform architectures (DWH, DataLake, ...)
-- AI accelerator
 
 ### 📄 Know about my experiences:
 
