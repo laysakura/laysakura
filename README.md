@@ -3,10 +3,9 @@
 
 ### 🔭 I’m currently working on ...
 
-- R&D on softwares at Toyota.
-  - Security & Privacy
-  - Auth (DID & VC)
-  - Data Platforms
+- CEO at SecDevLab Inc.
+  - Pentesting AI agent [RapidPen](https://rapidpen.secdevlab.com/)
+  - Security Services (Consultation, Pentesting, etc)
 
 ### 📝 I regularly write articles on ...
 
