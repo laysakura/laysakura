@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @laysakura</h1>
-<h3 align="center">A low-level system developer / backend engineer in Tokyo.</h3>
+<h3 align="center">A low-level system developer / security engineer in Tokyo.</h3>
 
 ### 🔭 I’m currently working on ...
 
