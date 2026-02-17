@@ -13,7 +13,6 @@
 ### 📄 Know about my experiences:
 
 - [職務経歴書](https://github.com/laysakura/resume-jp-for-side-job) (in Japanese; up-to-date)
-- [Resume](https://docs.google.com/document/d/e/2PACX-1vTu1CdgysxSZdSHMEnQYgLtJ7gB2WlE17mF92D4yjNH44PyifO-KMANDqV3bt-SfTBhlB2jUTXiRxiD/pub) (not up-to-date)
 
 ### 📫 How to reach me:
 
