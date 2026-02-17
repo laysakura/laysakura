@@ -4,8 +4,7 @@
 ### 🔭 I’m currently working on ...
 
 - CEO at SecDevLab Inc.
-  - Pentesting AI agent [RapidPen](https://rapidpen.secdevlab.com/)
-  - Security Services (Consultation, Pentesting, etc)
+  - Pentesting AI agent [RapidPen](https://secdevlab.com/rapidpen)
 
 ### 📝 I regularly write articles on ...
 
