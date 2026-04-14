@@ -3,8 +3,8 @@
 
 ### 🔭 I’m currently working on ...
 
-- CEO at SecDevLab Inc.
-  - Pentesting AI agent [RapidPen](https://secdevlab.com/rapidpen)
+- CEO at AgenticSec Inc.
+  - Pentesting AI agent [AgenticSec](https://agenticsec.tech)
 
 ### 📝 I regularly write articles on ...
 
